@@ -1,0 +1,1 @@
+const String kAnnouncementsUrl = 'https://raw.githubusercontent.com/Ramy-Assad/church-announcements-/main/announcements.json';
